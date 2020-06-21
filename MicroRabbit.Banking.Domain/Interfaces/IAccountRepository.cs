@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MicroRabbit.Banking.Domain.Interfaces
 {
-    public class IAccountRepository
+    public interface IAccountRepository
     {
         IEnumerable<Account> GetAccounts();
     }

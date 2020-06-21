@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MicroRabbit.Banking.Application.Interfaces
 {
-    public class IAccountService
+    public interface IAccountService
     {
         IEnumerable<Account> GetAccounts();
 

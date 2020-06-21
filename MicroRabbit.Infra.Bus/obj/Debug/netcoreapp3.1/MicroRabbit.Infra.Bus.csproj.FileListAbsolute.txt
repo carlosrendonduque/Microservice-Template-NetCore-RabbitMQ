@@ -1,7 +1,12 @@
-C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.AssemblyInfo.cs
-C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
-C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.deps.json
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.dll
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.pdb
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csproj.CopyComplete
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.dll
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.pdb
