@@ -1,0 +1,3 @@
+C:\Users\carlos.rendon\Documents\RabbitMQ\RabbitMQ.Infra.IoC\bin\Debug\netcoreapp3.1\RabbitMQ.Infra.IoC.exe
+C:\Users\carlos.rendon\Documents\RabbitMQ\RabbitMQ.Infra.IoC\obj\Debug\netcoreapp3.1\RabbitMQ.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\carlos.rendon\Documents\RabbitMQ\RabbitMQ.Infra.IoC\obj\Debug\netcoreapp3.1\RabbitMQ.Infra.IoC.AssemblyInfo.cs
