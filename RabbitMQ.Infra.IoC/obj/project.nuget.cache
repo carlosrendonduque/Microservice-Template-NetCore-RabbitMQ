@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "jK21E539TPEaApBpdaaxUWL3Let26W8W1tyDAxLIOyAyIowqV+z8sWSE99j8Xu+qSkyA52GwV3LaBBB2g5LdBg==",
+  "dgSpecHash": "ljVRC1UolhjDelxLqjTGNU3O1iPmYFiIQIcX1CqNWPND8hYW1kXdT53hOz1Ft7l6dyUfXwSqe1sQJco84HYasg==",
   "success": true,
   "projectFilePath": "C:\\Users\\carlos.rendon\\Documents\\RabbitMQ\\RabbitMQ.Infra.IoC\\RabbitMQ.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
-    "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
