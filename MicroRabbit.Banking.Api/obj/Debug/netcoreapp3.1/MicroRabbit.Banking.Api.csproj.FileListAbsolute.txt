@@ -1,6 +1,4 @@
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.csprojAssemblyReference.cache
-C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.csproj.CoreCompileInputs.cache
-C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.AssemblyInfoInputs.cache
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.AssemblyInfo.cs
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -67,3 +65,10 @@ C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\obj\Debug\netc
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.dll
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.pdb
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.genruntimeconfig.cache
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.csproj.CoreCompileInputs.cache
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll

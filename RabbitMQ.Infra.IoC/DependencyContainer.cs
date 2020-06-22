@@ -26,7 +26,7 @@ namespace RabbitMQ.Infra.IoC
 
             //Data
             services.AddTransient<IAccountRepository, AccountRepository>();
-            services.AddTransient<BankingDBContext>();
+            services.AddTransient<BankingDbContext>();
 
 
         }

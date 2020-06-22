@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DylgF3QvoFm6+V21onZb00pwOlCBDLZItXSIo6afDaBbyiOVFydb6E4d+sENX42+ugwly2SzxGhugfhQZlYPdw==",
+  "dgSpecHash": "sfjazrCLbGVgOO1NwbJKBJK1ijLJIe9fab1y8IqqFkpolC0p0uSvptL5bFkMEnqIy/mKVWSboMtnvFB4vTjTKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\carlos.rendon\\Documents\\RabbitMQ\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
   "expectedPackageFiles": [
@@ -19,8 +19,13 @@
     "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.5\\microsoft.extensions.configuration.3.1.5.nupkg.sha512",
     "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.5\\microsoft.extensions.configuration.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.5\\microsoft.extensions.configuration.binder.3.1.5.nupkg.sha512",
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.5\\microsoft.extensions.configuration.fileextensions.3.1.5.nupkg.sha512",
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.5\\microsoft.extensions.configuration.json.3.1.5.nupkg.sha512",
     "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
     "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.5\\microsoft.extensions.fileproviders.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.5\\microsoft.extensions.fileproviders.physical.3.1.5.nupkg.sha512",
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.5\\microsoft.extensions.filesystemglobbing.3.1.5.nupkg.sha512",
     "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.logging\\3.1.5\\microsoft.extensions.logging.3.1.5.nupkg.sha512",
     "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\carlos.rendon\\.nuget\\packages\\microsoft.extensions.options\\3.1.5\\microsoft.extensions.options.3.1.5.nupkg.sha512",

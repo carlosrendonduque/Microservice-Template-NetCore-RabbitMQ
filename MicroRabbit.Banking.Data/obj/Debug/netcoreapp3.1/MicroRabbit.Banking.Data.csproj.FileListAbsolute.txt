@@ -2,7 +2,6 @@ C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\obj\Debug\net
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.AssemblyInfo.cs
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csprojAssemblyReference.cache
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csproj.CopyComplete
-C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.deps.json
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.runtimeconfig.json
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.runtimeconfig.dev.json
@@ -13,3 +12,4 @@ C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\bin\Debug\net
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.genruntimeconfig.cache
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache

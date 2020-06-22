@@ -119,6 +119,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.5, )"
             }
           },
           "imports": [
@@ -216,7 +224,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\carlos.rendon\\Documents\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj": {
+                "projectPath": "C:\\Users\\carlos.rendon\\Documents\\RabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -231,6 +243,12 @@
             "MediatR": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
             }
           },
           "imports": [

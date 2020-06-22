@@ -6,3 +6,4 @@ C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\n
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
 C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\carlos.rendon\Documents\RabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
