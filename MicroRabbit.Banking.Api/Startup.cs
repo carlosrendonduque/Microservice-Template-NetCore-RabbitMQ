@@ -13,12 +13,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Microsoft.OpenApi.Models;
 using RabbitMQ.Infra.IoC;
+using Swashbuckle.Swagger;
 
 namespace MicroRabbit.Banking.Api
 {
@@ -35,18 +38,26 @@ namespace MicroRabbit.Banking.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddDbContext<BankingDbContext>(options =>
-            //{
-            //    options.UseSqlServer(Configuration.GetConnectionString("BankingDbConnection"));
-            //});
+            services.AddDbContext<BankingDbContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("BankingDbConnection"));
+            });
 
-          
-            services.AddDbContext<BankingDbContext>();
+
+            //services.AddDbContext<BankingDbContext>();
 
             services.AddTransient<IAccountRepository, AccountRepository>();
-            services.AddControllers();
-            RegisterServices(services);
 
+            services.AddControllers();
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Banking Microservice", Version = "v1" });
+            });
+
+
+            services.AddMediatR(typeof(Startup));
+            RegisterServices(services);
         }
 
         private void RegisterServices(IServiceCollection services)
@@ -63,6 +74,10 @@ namespace MicroRabbit.Banking.Api
             }
 
             app.UseHttpsRedirection();
+            app.UseSwagger();
+            app.UseSwaggerUI(c=>{
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Banking Microservice V1");
+            });
 
             app.UseRouting();
 
