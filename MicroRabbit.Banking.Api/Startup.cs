@@ -77,6 +77,7 @@ namespace MicroRabbit.Banking.Api
             app.UseSwagger();
             app.UseSwaggerUI(c=>{
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Banking Microservice V1");
+
             });
 
             app.UseRouting();
